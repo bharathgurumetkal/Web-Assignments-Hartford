@@ -1,7 +1,5 @@
 //Bug 1: Loop Output Issue\
 
-//issue: <= causes array index out of bounds
-
 //ANSWER:
 for (let i = 0; i < customers.length; i++) {
   console.log(customers[i].name);
@@ -9,14 +7,10 @@ for (let i = 0; i < customers.length; i++) {
 
 //Bug 2: filter() Not Working
 
-//issue:Arrow function does not return condition.
-
 //ANSWER:
 const activeCustomers = customers.filter((c) => c.active === true);
 
 //Bug 3: Premium Increase Logic Broken
-
-//issue:map() does not return object and mutates original array
 
 //ANSWER:
 const updatedPremiums = customers.map((c) => {
@@ -27,8 +21,6 @@ const updatedPremiums = customers.map((c) => {
 
 //Bug 4: Wrong Total Premium Calculation
 
-//issue:reduce() callback does not return accumulated value
-
 //ANSWER:
 const totalPremium = customers.reduce((total, c) => {
   return total + c.premium;
@@ -36,14 +28,10 @@ const totalPremium = customers.reduce((total, c) => {
 
 //Bug 5: Template Literal Not Printing
 
-//issue: Missing $ in template literal
-
 //ANSWER:
 console.log(`Customer ${customers[0].name} has policy ${customers[0].policy}`);
 
 //Bug 6: Policy Count Incorrect
-
-//issue:Dynamic object key not used. count.policy is incorrect.
 
 //ANSWER:
 const policyCount = customers.reduce((count, c) => {
@@ -51,8 +39,6 @@ const policyCount = customers.reduce((count, c) => {
   return count;}, {});
 
   //Bug 7: Risk Level Always Undefined
-
-  //issue:Condition chaining incorrect ,second if overrides first.
 
   //ANSWER:
   const customersWithRisk = customers.map((c) => {
@@ -66,8 +52,6 @@ const policyCount = customers.reduce((count, c) => {
 
 //Bug 8: Active vs Inactive Count Wrong
 
-//issue: loops over index, not object.
-
 //ANSWER:
 let active = 0, inactive = 0;
 
@@ -78,8 +62,6 @@ for (const c of customers) {
 
 //Bug 9: Arrow Function Syntax Error
 
-//issue:Missing return due to multiline arrow function.
-
 //ANSWER:
 const getLifeCustomers = () =>
   customers
@@ -87,8 +69,6 @@ const getLifeCustomers = () =>
     .map((c) => c.name);
 
 //Bug 10: Sorting Mutates Original Array
-
-//issue:sort() mutates original array.
 
 //ANSWER:
 const sortedCustomers = [...customers].sort((a, b) => b.premium - a.premium);
