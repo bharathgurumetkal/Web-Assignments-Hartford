@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="form-container">
+        <h2>Insurance Enquiry and FeedBack</h2>
+        <p style="font-size:small;">Have a question or suggestion? Fill out the form below:</p>
+        <form id="insuranceForm">
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" >
+            <small class="error" id="nameError"></small>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" >
+            <small class="error" id="emailError"></small>
+
+            <label>Mobile Number</label>
+            <input type="tel" name="" id="mobile" placeholder="10-digit number">
+            <small class="error" id="mobileError"></small>
+
+            <label>Request Type</label>
+            <select id="requestType">
+        <option value="">-- Select Request Type --</option>
+        <option>Policy Enquiry</option>
+        <option>Claim Related</option>
+        <option>Feedback</option>
+      </select>
+      <small class="error" id="requestError"></small>
+<label>Policy Type</label>
+       <select id="policyType">
+        <option value="">-- Select Policy Type --</option>
+        <option>Health Insurance</option>
+        <option>Life Insurance</option>
+        <option>Vehicle Insurance</option>
+        <option>Home Insurance</option>
+      </select>
+      <small class="error" id="policyError"></small>
+          
+      <label>Your Message</label>
+      <textarea id="message" rows="4" placeholder="Write your message here..."></textarea>
+      <small class="error" id="messageError"></small>
+
+<label>Experience Rating</label>
+<div class="rating">
+  <label><input type="radio" name="rating" value="1"> 1</label>
+  <label><input type="radio" name="rating" value="2"> 2</label>
+  <label><input type="radio" name="rating" value="3"> 3</label>
+  <label><input type="radio" name="rating" value="4"> 4</label>
+  <label><input type="radio" name="rating" value="5"> 5</label>
+</div>
+<small class="error" id="ratingError"></small>
+
+ <button type="submit">Submit Enquiry</button>
+ <p class="success" id="successMessage"></p>
+        </form>
+    </div>
+      <script src="script.js"></script>
+</body>
+</html>

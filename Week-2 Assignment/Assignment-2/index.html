@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SecureLife Insurance</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-100 text-gray-800">
+
+<nav class="bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-md">
+  <div class="max-w-7xl mx-auto flex justify-between items-center p-4">
+    <h1 class="font-bold text-2xl tracking-wide">The Hartford</h1>
+    <div class="space-x-6 text-sm font-medium">
+      <a href="index.html" class="hover:text-yellow-300">Home</a>
+      <a href="enquiry.html" class="hover:text-yellow-300">Enquiry</a>
+      <a href="dashboard.html" class="hover:text-yellow-300">Dashboard</a>
+    </div>
+  </div>
+</nav>
+
+<header class="relative bg-gradient-to-br from-blue-50 via-white to-indigo-50">
+  <div class="max-w-7xl mx-auto px-6 py-16 flex flex-col md:flex-row items-center">
+    
+   
+    <div class="md:w-1/2">
+      <h2 class="text-4xl font-extrabold text-blue-700 leading-tight">
+        Protect Your Life,<br>Secure Your Future
+      </h2>
+      <p class="mt-4 text-gray-600">
+        Simple, transparent and reliable insurance solutions tailored for you.
+      </p>
+<a href="enquiry.html"
+   class="bg-blue-600 text-white py-2 px-5 rounded-full font-medium hover:bg-blue-700 transition shadow-md inline-block mt-6">
+   Get Your Plan →
+</a>
+
+    </div>
+
+    
+    <div class="md:w-1/2 mt-8 md:mt-0 flex justify-center">
+      <img src="https://i0.wp.com/iastl.com/assets/The-Hartford-Insurance-Logo-Insurance-Advisors-Of-St.-Louis.png?resize=1024%2C1024&ssl=1" 
+           class="w-64 drop-shadow-lg" alt="insurance">
+    </div>
+
+  </div>
+</header>
+
+
+<section class="max-w-7xl mx-auto px-6 -mt-10 relative z-10">
+  <div class="grid md:grid-cols-3 gap-6">
+    
+    <div class="glass-card border border-gray-300 rounded p-3">
+      <h3 class="text-sm text-gray-500">Happy Customers</h3>
+      <p class="text-3xl font-bold text-blue-600" id="totalCustomers">0</p>
+    </div>
+
+    <div class="glass-card border border-gray-300 rounded p-3">
+      <h3 class="text-sm text-gray-500">Active Policies</h3>
+      <p class="text-3xl font-bold text-blue-600">3</p>
+    </div>
+
+    <div class="glass-card border border-gray-300 rounded p-3">
+      <h3 class="text-sm text-gray-500">Total Premium Collected</h3>
+      <p class="text-3xl font-bold text-blue-600">₹<span id="totalPremium">0</span></p>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="max-w-7xl mx-auto mt-16 px-6">
+  <h3 class="text-3xl font-bold text-center mb-10">Our Insurance Plans</h3>
+  <div id="plansContainer" class="grid md:grid-cols-3 gap-8"></div>
+</section>
+
+
+<footer class="bg-slate-900 text-gray-300 mt-16">
+  <div class="max-w-7xl mx-auto text-center p-6 text-sm">
+    SecureLife Insurance © 2026 • Trusted by Thousands
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

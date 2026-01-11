@@ -1,0 +1,22 @@
+.btn-blue {
+  background: #2563eb;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 9999px;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.btn-blue:hover {
+  background: #1d4ed8;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+
+.success {
+  color: green;
+  text-align: center;
+}

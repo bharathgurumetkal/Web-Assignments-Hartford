@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Customer Enquiry</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-gray-100">
+
+
+<nav class="bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-md">
+  <div class="max-w-7xl mx-auto flex justify-between items-center p-4">
+    <h1 class="font-bold text-2xl tracking-wide">The Hartford</h1>
+    <div class="space-x-6 text-sm font-medium">
+      <a href="index.html" class="hover:text-yellow-300">Home</a>
+      <a href="enquiry.html" class="hover:text-yellow-300">Enquiry</a>
+      <a href="dashboard.html" class="hover:text-yellow-300">Dashboard</a>
+    </div>
+  </div>
+</nav>
+
+<section class="max-w-4xl mx-auto mt-10 px-4">
+  <h2 class="text-2xl font-bold mb-4">Customer Enquiry Form</h2>
+
+  <form id="customerForm" class="bg-white p-6 rounded rounded-4 shadow grid md:grid-cols-2 gap-4">
+
+    <div>
+      <label>Name</label>
+      <input id="name"
+ class="border border-gray-300 rounded px-3 py-2 w-full focus:outline-none focus:border-blue-500">
+
+      <small class="error" id="nameError"></small>
+    </div>
+
+    <div>
+      <label>Age</label>
+      <input id="age" type="number"  class="border border-gray-300 rounded px-3 py-2 w-full focus:outline-none focus:border-blue-500">
+      <small class="error" id="ageError"></small>
+    </div>
+
+    <div>
+      <label>Email</label>
+      <input id="email" type="email"  class="border border-gray-300 rounded px-3 py-2 w-full focus:outline-none focus:border-blue-500">
+      <small class="error" id="emailError"></small>
+    </div>
+
+   <div>
+  <label class="block font-medium mb-1">Policy Type</label>
+  
+  <select id="policyType"
+    class="border border-gray-300 rounded px-3 py-2 w-full focus:outline-none focus:border-blue-500 bg-white">
+    
+    <option value="">Select Policy</option>
+    <option>Health</option>
+    <option>Life</option>
+    <option>Vehicle</option>
+  
+  </select>
+
+  <small class="text-red-500 text-xs" id="policyError"></small>
+</div>
+
+
+    <div class="md:col-span-2">
+      <label>Coverage Amount (in Lakhs)</label>
+      <input id="coverage" type="range" min="1" max="10" value="1" class="w-full">
+      <p>Coverage: <span id="coverageValue">1</span> Lakh</p>
+    </div>
+
+    <div class="md:col-span-2">
+      <button class="btn-blue w-50">Submit Enquiry</button>
+      <p class="success" id="successMsg"></p>
+    </div>
+
+  </form>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
