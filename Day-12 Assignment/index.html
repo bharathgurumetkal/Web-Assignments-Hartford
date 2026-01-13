@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Insurance Mini Project</title>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    button { margin: 5px; background-color: #db4914;width: 150px;height: 40px; color: white; border: none; border-radius: 8px; cursor: pointer; }
+    .policy { border: 3px solid #e75a5a; padding: 15px; margin: 8px 0;width: 25%;border-radius: 12px; }
+  </style>
+</head>
+<body>
+
+  <h2>Insurance Policies</h2>
+
+  <button onclick="loadPolicies()">Load Policies</button>
+  <button onclick="filterPolicies('Health')">Health</button>
+  <button onclick="filterPolicies('Life')">Life</button>
+  <button onclick="filterPolicies('Vehicle')">Vehicle</button>
+  <button onclick="showAll()">Show All</button>
+
+  <h3>Total Active Premium: ₹<span id="totalPremium" style="color:or">0</span></h3>
+
+  <div id="policiesContainer"></div>
+
+  <button onclick="applyDiscount()" 
+  >Apply Discount</button>
+
+  <h3>Approve / Purchase Policy</h3>
+<input type="number" id="policyId" placeholder="Enter Policy ID">
+<button onclick="handlePurchase()">Approve Policy</button>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
