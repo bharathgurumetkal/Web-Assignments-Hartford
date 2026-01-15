@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Product Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>🛒 Product Management</h1>
+    <p>CRUD Operations using DummyJSON REST API</p>
+
+    <!-- Form Section -->
+    <div class="form-card">
+      <input id="pid" placeholder="Product ID (for Update/Delete)">
+      <input id="title" placeholder="Product Title">
+      <input id="price" placeholder="Price">
+      <input id="brand" placeholder="Brand">
+
+      <div class="btn-group">
+        <button class="btn green" onclick="createProduct()">Create</button>
+        <button class="btn blue" onclick="updateProduct()">Update</button>
+        <button class="btn red" onclick="deleteProduct()">Delete</button>
+        <button class="btn gray" onclick="getSingleProduct()">Get One</button>
+      </div>
+    </div>
+
+    <!-- Refresh -->
+    <button class="btn refresh" onclick="getAllProducts()">🔄 Refresh Products</button>
+
+    <!-- Table Section -->
+    <div class="table-card">
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Brand</th>
+          </tr>
+        </thead>
+        <tbody id="productTable"></tbody>
+      </table>
+    </div>
+
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>
