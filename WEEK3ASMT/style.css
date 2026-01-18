@@ -1,0 +1,75 @@
+body
+ { font-family: Arial; 
+padding: 20px;
+ }
+ 
+table { 
+    width: 100%; 
+    margin-top: 10px;
+     border-collapse: collapse;
+     }
+table td 
+{ padding: 2px; 
+text-align: center;
+ }
+#loader 
+{ font-size: 18px; 
+    color: blue;
+ }
+.lowBalance {
+     background: #ffcccc;
+    } 
+
+input,select,.sortBtn,.createBtn{
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+    border-radius: 4px;
+}
+button{
+    background-color: rgb(93, 93, 254);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(64, 64, 159);
+}
+p{
+    font-size: 18px;
+    color: rgb(64, 64, 159);
+    text-align: center;
+}
+.actionBtn{
+  border: none;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 13px;
+  cursor: pointer;
+  margin: 2px;
+}
+thead th{
+    background-color: rgb(93, 93, 254);
+    color: white;
+    padding: 10px;
+    
+}
+
+.card {
+  width: 50%;
+  background: white;
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  margin-bottom: 15px;
+}
+
+tbody tr:hover {
+  background-color: #f1f5ff;
+}
+
+.deposit { background: #28a745; }    
+.withdraw { background: #ff9800; }   
+.history { background: #2196f3; }    
+.delete { background: #f44336; } 
