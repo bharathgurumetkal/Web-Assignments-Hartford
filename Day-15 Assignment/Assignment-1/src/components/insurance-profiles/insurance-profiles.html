@@ -1,0 +1,8 @@
+<div class="cards">
+  @for (profile of profiles; track profile.name) {
+    <div class="card">
+      <img [src]="profile.img" [alt]="profile.name" class="cardImg">
+      <h3>{{profile.name}}</h3>
+    </div>
+  }
+</div>
