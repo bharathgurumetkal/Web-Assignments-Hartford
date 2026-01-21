@@ -1,0 +1,67 @@
+/* Center Page */
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #f4f6f8;
+  font-family: Arial, sans-serif;
+}
+
+/* Card */
+.calculator-card {
+  background: white;
+  padding: 25px;
+  width: 320px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+/* Heading */
+.calculator-card h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Inputs */
+.calculator-card input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Buttons Layout */
+.button-group {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+/* Common Button */
+.btn {
+  padding: 8px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Individual Button Colors */
+.add { background-color: #007bff; }
+.sub { background-color: #17a2b8; }
+.mul { background-color: #28a745; }
+.div { background-color: #dc3545; }
+
+.btn:hover {
+  opacity: 0.85;
+}
+
+/* Result */
+h3 span {
+  color: #007bff;
+  font-weight: bold;
+}

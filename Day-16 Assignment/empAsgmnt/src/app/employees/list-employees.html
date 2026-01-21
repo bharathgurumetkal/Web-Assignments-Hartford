@@ -1,0 +1,23 @@
+<div class="container mt-3">
+  <div class="row">
+
+    @for (emp of employees; track emp.id) {
+      <div class="col-md-4 mb-3">
+        <div class="card">
+
+          <img [src]="emp.photoPath" class="card-img-top">
+
+          <div class="card-body">
+            <h4 class="card-title">{{emp.name}}</h4>
+            <p class="card-text">Gender: {{emp.gender}}</p>
+            <p class="card-text">Department: {{emp.department}}</p>
+            <p class="card-text">DOB: {{emp.dateOfBirth | date}}</p>
+            <p class="card-text">Active: {{emp.isActive}}</p>
+          </div>
+
+        </div>
+      </div>
+    }
+
+  </div>
+</div>

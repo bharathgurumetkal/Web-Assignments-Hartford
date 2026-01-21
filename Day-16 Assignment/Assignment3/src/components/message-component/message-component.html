@@ -1,0 +1,47 @@
+<div class="min-h-screen bg-slate-50 flex items-center justify-center p-6">
+
+  <div class="bg-white w-full max-w-md rounded-xl shadow-sm border border-slate-200 p-6">
+
+    <!-- Header -->
+    <h2 class="text-xl font-semibold text-slate-800 mb-4">
+      Message Service
+    </h2>
+    <p class="text-sm text-slate-500 mb-6">
+      Add and view messages using Angular Service
+    </p>
+
+    <!-- Input Row -->
+    <div class="flex gap-2 mb-6">
+      <input 
+        type="text"
+        [(ngModel)]="messageText"
+        placeholder="Enter message..."
+        class="flex-1 px-3 py-2 text-sm border border-slate-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400"
+      >
+      <button 
+        (click)="addMessage()"
+        class="px-4 py-2 text-sm font-medium bg-blue-600 text-white rounded-md hover:bg-blue-700 transition"
+      >
+        Add
+      </button>
+    </div>
+
+    <!-- Messages List -->
+    <div class="space-y-3">
+
+      @if (messages.length === 0) {
+        <p class="text-sm text-slate-400 text-center">
+          No messages yet.
+        </p>
+      }
+
+      @for (msg of messages; track $index) {
+        <div class="px-4 py-2 bg-slate-100 rounded-md text-slate-700 text-sm shadow-sm">
+          {{msg}}
+        </div>
+      }
+
+    </div>
+
+  </div>
+</div>
