@@ -1,0 +1,39 @@
+<div class="min-h-screen bg-slate-100 flex items-center justify-center p-6">
+
+  <!-- Product Card -->
+  <div class="bg-white rounded-2xl shadow-lg border border-slate-200 max-w-md w-full p-6">
+
+    <!-- Header -->
+    <h2 class="text-2xl font-semibold text-slate-800 mb-6 text-center">
+      Product Details
+    </h2>
+
+    <!-- Product Info -->
+    <div class="space-y-4 text-slate-700">
+
+      <div class="flex justify-between border-b pb-2">
+        <span class="font-medium text-slate-600">Name</span>
+        <span class="font-semibold text-slate-800">{{product.name}}</span>
+      </div>
+
+      <div class="flex justify-between border-b pb-2">
+        <span class="font-medium text-slate-600">Price</span>
+        <span class="font-semibold text-emerald-600">
+          ₹{{product.price}}
+        </span>
+      </div>
+
+    </div>
+
+    <!-- Back Button -->
+    <div class="mt-6 text-center">
+      <a 
+        routerLink="/products"
+        class="inline-block px-4 py-2 text-sm font-medium bg-indigo-600 text-white rounded-md hover:bg-indigo-700 transition"
+      >
+        Back to Products
+      </a>
+    </div>
+
+  </div>
+</div>
