@@ -1,0 +1,11 @@
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\bin\Debug\net9.0\SalaryCalculator.deps.json
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\bin\Debug\net9.0\SalaryCalculator.dll
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\bin\Debug\net9.0\SalaryCalculator.pdb
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\obj\Debug\net9.0\SalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\obj\Debug\net9.0\SalaryCalculator.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\obj\Debug\net9.0\SalaryCalculator.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\obj\Debug\net9.0\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\obj\Debug\net9.0\SalaryCalculator.dll
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\obj\Debug\net9.0\refint\SalaryCalculator.dll
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\obj\Debug\net9.0\SalaryCalculator.pdb
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\SalaryCalculator\obj\Debug\net9.0\ref\SalaryCalculator.dll

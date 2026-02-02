@@ -1,0 +1,14 @@
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\bin\Debug\net9.0\Exercise-1.exe
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\bin\Debug\net9.0\Exercise-1.deps.json
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\bin\Debug\net9.0\Exercise-1.runtimeconfig.json
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\bin\Debug\net9.0\Exercise-1.dll
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\bin\Debug\net9.0\Exercise-1.pdb
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\Exercise-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\Exercise-1.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\Exercise-1.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\Exercise-1.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\Exercise-1.dll
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\refint\Exercise-1.dll
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\Exercise-1.pdb
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\Exercise-1.genruntimeconfig.cache
+C:\Users\Bhara\Desktop\.NET\Week-5 Assignment\Exercise-1\obj\Debug\net9.0\ref\Exercise-1.dll

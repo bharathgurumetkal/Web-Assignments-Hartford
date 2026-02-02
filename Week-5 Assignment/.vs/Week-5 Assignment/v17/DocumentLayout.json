@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB71A5F-64FB-4353-80E0-A9E93FA187DE}|Exercise-5\\Exercise-5.csproj|c:\\users\\bhara\\desktop\\.net\\week-5 assignment\\exercise-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB71A5F-64FB-4353-80E0-A9E93FA187DE}|Exercise-5\\Exercise-5.csproj|solutionrelative:exercise-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098BBD78-C823-4150-8507-DB25E17AF36C}|Exercise-4\\Exercise-4.csproj|c:\\users\\bhara\\desktop\\.net\\week-5 assignment\\exercise-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098BBD78-C823-4150-8507-DB25E17AF36C}|Exercise-4\\Exercise-4.csproj|solutionrelative:exercise-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73748E1B-3156-41D6-AB27-48FCDAA9F800}|Exercise-3\\Exercise-3.csproj|c:\\users\\bhara\\desktop\\.net\\week-5 assignment\\exercise-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73748E1B-3156-41D6-AB27-48FCDAA9F800}|Exercise-3\\Exercise-3.csproj|solutionrelative:exercise-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BBE13D-84F9-478C-B784-4683DF9D263F}|SalaryCalculator\\SalaryCalculator.csproj|c:\\users\\bhara\\desktop\\.net\\week-5 assignment\\salarycalculator\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BBE13D-84F9-478C-B784-4683DF9D263F}|SalaryCalculator\\SalaryCalculator.csproj|solutionrelative:salarycalculator\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73748E1B-3156-41D6-AB27-48FCDAA9F800}|Exercise-3\\Exercise-3.csproj|c:\\users\\bhara\\desktop\\.net\\week-5 assignment\\exercise-3\\exercise-3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73748E1B-3156-41D6-AB27-48FCDAA9F800}|Exercise-3\\Exercise-3.csproj|solutionrelative:exercise-3\\exercise-3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF57E3-DE54-4EA1-BD6D-69BE86E2B75B}|Exercise-2\\Exercise-2.csproj|c:\\users\\bhara\\desktop\\.net\\week-5 assignment\\exercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF57E3-DE54-4EA1-BD6D-69BE86E2B75B}|Exercise-2\\Exercise-2.csproj|solutionrelative:exercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE57426-FF39-4D3E-8539-01B057B5B8B7}|Exercise-1\\Exercise-1.csproj|c:\\users\\bhara\\desktop\\.net\\week-5 assignment\\exercise-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE57426-FF39-4D3E-8539-01B057B5B8B7}|Exercise-1\\Exercise-1.csproj|solutionrelative:exercise-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-5\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise-5\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-5\\Program.cs",
+              "RelativeToolTip": "Exercise-5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:26:01.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-4\\Program.cs",
+              "RelativeToolTip": "Exercise-4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:22:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercise-3",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-3\\Exercise-3.csproj",
+              "RelativeDocumentMoniker": "Exercise-3\\Exercise-3.csproj",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-3\\Exercise-3.csproj",
+              "RelativeToolTip": "Exercise-3\\Exercise-3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T01:15:39.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\SalaryCalculator\\Salary.cs",
+              "RelativeDocumentMoniker": "SalaryCalculator\\Salary.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\SalaryCalculator\\Salary.cs",
+              "RelativeToolTip": "SalaryCalculator\\Salary.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:14:12.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-3\\Program.cs",
+              "RelativeToolTip": "Exercise-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:12:25.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-2\\Program.cs",
+              "RelativeToolTip": "Exercise-2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:07:38.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\.NET\\Week-5 Assignment\\Exercise-1\\Program.cs",
+              "RelativeToolTip": "Exercise-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:04:48.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
