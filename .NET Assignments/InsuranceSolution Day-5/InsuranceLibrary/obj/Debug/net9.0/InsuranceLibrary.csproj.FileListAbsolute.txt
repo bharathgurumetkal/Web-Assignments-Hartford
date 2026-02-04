@@ -1,0 +1,11 @@
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.deps.json
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.dll
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.pdb
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.dll
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\refint\InsuranceLibrary.dll
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.pdb
+C:\Users\Bhara\Desktop\.NET\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\ref\InsuranceLibrary.dll
