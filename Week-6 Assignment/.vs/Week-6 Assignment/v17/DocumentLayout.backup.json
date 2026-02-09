@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6ECC54-B8FF-4FF9-8912-396F9ED0CC4A}|Requirement2\\Requirement2.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6ECC54-B8FF-4FF9-8912-396F9ED0CC4A}|Requirement2\\Requirement2.csproj|solutionrelative:requirement2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F2DCE2-3CA7-4377-9AEC-ABF6EABE9941}|Requirement-6\\Requirement-6.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F2DCE2-3CA7-4377-9AEC-ABF6EABE9941}|Requirement-6\\Requirement-6.csproj|solutionrelative:requirement-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6ECC54-B8FF-4FF9-8912-396F9ED0CC4A}|Requirement2\\Requirement2.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement2\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6ECC54-B8FF-4FF9-8912-396F9ED0CC4A}|Requirement2\\Requirement2.csproj|solutionrelative:requirement2\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6ECC54-B8FF-4FF9-8912-396F9ED0CC4A}|Requirement2\\Requirement2.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6ECC54-B8FF-4FF9-8912-396F9ED0CC4A}|Requirement2\\Requirement2.csproj|solutionrelative:requirement2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6ECC54-B8FF-4FF9-8912-396F9ED0CC4A}|Requirement2\\Requirement2.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement2\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6ECC54-B8FF-4FF9-8912-396F9ED0CC4A}|Requirement2\\Requirement2.csproj|solutionrelative:requirement2\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F70786-33A3-4588-B206-D51366B8F004}|Requirement-5\\Requirement-5.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F70786-33A3-4588-B206-D51366B8F004}|Requirement-5\\Requirement-5.csproj|solutionrelative:requirement-5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F70786-33A3-4588-B206-D51366B8F004}|Requirement-5\\Requirement-5.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F70786-33A3-4588-B206-D51366B8F004}|Requirement-5\\Requirement-5.csproj|solutionrelative:requirement-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F70786-33A3-4588-B206-D51366B8F004}|Requirement-5\\Requirement-5.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-5\\parkedtimecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F70786-33A3-4588-B206-D51366B8F004}|Requirement-5\\Requirement-5.csproj|solutionrelative:requirement-5\\parkedtimecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F70786-33A3-4588-B206-D51366B8F004}|Requirement-5\\Requirement-5.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-5\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F70786-33A3-4588-B206-D51366B8F004}|Requirement-5\\Requirement-5.csproj|solutionrelative:requirement-5\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7FA6CB-8067-4F5A-8356-2D7A1F85B83F}|Requirement-4\\Requirement-4.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7FA6CB-8067-4F5A-8356-2D7A1F85B83F}|Requirement-4\\Requirement-4.csproj|solutionrelative:requirement-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7FA6CB-8067-4F5A-8356-2D7A1F85B83F}|Requirement-4\\Requirement-4.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-4\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7FA6CB-8067-4F5A-8356-2D7A1F85B83F}|Requirement-4\\Requirement-4.csproj|solutionrelative:requirement-4\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7FA6CB-8067-4F5A-8356-2D7A1F85B83F}|Requirement-4\\Requirement-4.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-4\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7FA6CB-8067-4F5A-8356-2D7A1F85B83F}|Requirement-4\\Requirement-4.csproj|solutionrelative:requirement-4\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7FA6CB-8067-4F5A-8356-2D7A1F85B83F}|Requirement-4\\Requirement-4.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-6 assignment\\requirement-4\\vehiclebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7FA6CB-8067-4F5A-8356-2D7A1F85B83F}|Requirement-4\\Requirement-4.csproj|solutionrelative:requirement-4\\vehiclebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParkingLot.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement2\\ParkingLot.cs",
+              "RelativeDocumentMoniker": "Requirement2\\ParkingLot.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement2\\ParkingLot.cs",
+              "RelativeToolTip": "Requirement2\\ParkingLot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:00:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement2\\Program.cs",
+              "RelativeDocumentMoniker": "Requirement2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement2\\Program.cs",
+              "RelativeToolTip": "Requirement2\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:00:00.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Requirement2\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement2\\Vehicle.cs",
+              "RelativeToolTip": "Requirement2\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:00:29.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement2\\Ticket.cs",
+              "RelativeDocumentMoniker": "Requirement2\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement2\\Ticket.cs",
+              "RelativeToolTip": "Requirement2\\Ticket.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:00:45.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-6\\Program.cs",
+              "RelativeDocumentMoniker": "Requirement-6\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-6\\Program.cs",
+              "RelativeToolTip": "Requirement-6\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:34:06.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-5\\Program.cs",
+              "RelativeDocumentMoniker": "Requirement-5\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-5\\Program.cs",
+              "RelativeToolTip": "Requirement-5\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:07:13.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-5\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Requirement-5\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-5\\Vehicle.cs",
+              "RelativeToolTip": "Requirement-5\\Vehicle.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:07:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParkedTimeComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-5\\ParkedTimeComparer.cs",
+              "RelativeDocumentMoniker": "Requirement-5\\ParkedTimeComparer.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-5\\ParkedTimeComparer.cs",
+              "RelativeToolTip": "Requirement-5\\ParkedTimeComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:08:07.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-5\\Ticket.cs",
+              "RelativeDocumentMoniker": "Requirement-5\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-5\\Ticket.cs",
+              "RelativeToolTip": "Requirement-5\\Ticket.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA5wDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:07:47.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleBO.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-4\\VehicleBO.cs",
+              "RelativeDocumentMoniker": "Requirement-4\\VehicleBO.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-4\\VehicleBO.cs",
+              "RelativeToolTip": "Requirement-4\\VehicleBO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T16:08:09.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-4\\Ticket.cs",
+              "RelativeDocumentMoniker": "Requirement-4\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-4\\Ticket.cs",
+              "RelativeToolTip": "Requirement-4\\Ticket.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T16:02:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-4\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Requirement-4\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-4\\Vehicle.cs",
+              "RelativeToolTip": "Requirement-4\\Vehicle.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T16:01:46.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-4\\Program.cs",
+              "RelativeDocumentMoniker": "Requirement-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-6 Assignment\\Requirement-4\\Program.cs",
+              "RelativeToolTip": "Requirement-4\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:52:48.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

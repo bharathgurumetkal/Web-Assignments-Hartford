@@ -1,0 +1,15 @@
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\bin\Debug\net9.0\Requirement-1.exe
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\bin\Debug\net9.0\Requirement-1.deps.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\bin\Debug\net9.0\Requirement-1.runtimeconfig.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\bin\Debug\net9.0\Requirement-1.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\bin\Debug\net9.0\Requirement-1.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\Requirement-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\Requirement-1.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\Requirement-1.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\Requirement-1.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\Requirement-1.sourcelink.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\Requirement-1.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\refint\Requirement-1.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\Requirement-1.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\Requirement-1.genruntimeconfig.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Week-6 Assignment\Requirement-1\obj\Debug\net9.0\ref\Requirement-1.dll
