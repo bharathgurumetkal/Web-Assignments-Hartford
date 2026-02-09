@@ -1,0 +1,15 @@
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\bin\Debug\net9.0\Day-6(Exception).exe
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\bin\Debug\net9.0\Day-6(Exception).deps.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\bin\Debug\net9.0\Day-6(Exception).runtimeconfig.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\bin\Debug\net9.0\Day-6(Exception).dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\bin\Debug\net9.0\Day-6(Exception).pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\Day-6(Exception).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\Day-6(Exception).AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\Day-6(Exception).AssemblyInfo.cs
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\Day-6(Exception).csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\Day-6(Exception).sourcelink.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\Day-6(Exception).dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\refint\Day-6(Exception).dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\Day-6(Exception).pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\Day-6(Exception).genruntimeconfig.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\Day-6(Exception)\Day-6(Exception)\obj\Debug\net9.0\ref\Day-6(Exception).dll
