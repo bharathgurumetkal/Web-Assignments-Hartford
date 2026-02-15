@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentApiDemo\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentApiDemo\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:35:23.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApiDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Program.cs",
+              "RelativeToolTip": "StudentApiDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:32:17.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentApiDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentApiDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:31:48.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApiDemo\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Models\\Student.cs",
+              "RelativeToolTip": "StudentApiDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:30:59.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
