@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|solutionrelative:studentapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72E102FA-F9B1-43D4-9AD0-194C6273DEEA}|StudentApiDemo\\StudentApiDemo.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +54,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "StudentApiDemo\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "StudentApiDemo\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:51:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "StudentApiDemo\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Models\\Department.cs",
+              "RelativeToolTip": "StudentApiDemo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:49:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentApiDemo\\Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "StudentApiDemo\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T18:35:23.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Program.cs",
               "RelativeDocumentMoniker": "StudentApiDemo\\Program.cs",
@@ -67,31 +101,30 @@
               "RelativeToolTip": "StudentApiDemo\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T18:32:17.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T18:32:17.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "StudentApiDemo\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Data\\AppDbContext.cs",
               "RelativeToolTip": "StudentApiDemo\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T18:31:48.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentApiDemo\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Models\\Student.cs",
               "RelativeToolTip": "StudentApiDemo\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T18:30:59.118Z",
               "EditorCaption": ""
