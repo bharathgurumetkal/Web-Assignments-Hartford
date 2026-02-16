@@ -1,0 +1,6 @@
+@StudentsAPIDemo_SQLDB_HostAddress = http://localhost:5166
+
+GET {{StudentsAPIDemo_SQLDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

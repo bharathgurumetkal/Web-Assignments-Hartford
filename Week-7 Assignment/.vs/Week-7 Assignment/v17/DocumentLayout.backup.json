@@ -62,8 +62,7 @@
               "RelativeToolTip": "StudentApiDemo\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T04:51:06.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T04:51:06.988Z"
             },
             {
               "$type": "Document",
@@ -73,7 +72,7 @@
               "RelativeDocumentMoniker": "StudentApiDemo\\Models\\Department.cs",
               "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentApiDemo\\Models\\Department.cs",
               "RelativeToolTip": "StudentApiDemo\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T04:49:07.393Z",
               "EditorCaption": ""
@@ -88,8 +87,7 @@
               "RelativeToolTip": "StudentApiDemo\\Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T18:35:23.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T18:35:23.275Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "StudentApiDemo\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T18:31:48.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T18:31:48.095Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "StudentApiDemo\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T18:30:59.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T18:30:59.118Z"
             }
           ]
         }

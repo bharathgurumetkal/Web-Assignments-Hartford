@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HzKgk03amT9mxgQfx/SfHTS3XhQ5e3zSXSIluiiG7aE=",
+  "Source": "StudentsAPIDemo-SQLDB",
+  "BasePath": "_content/StudentsAPIDemo-SQLDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
