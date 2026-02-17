@@ -10,6 +10,7 @@ namespace Seeding_Data.Data
         public EFCoreDbContext(DbContextOptions<EFCoreDbContext> options)
             : base(options)
         {
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-12 assignment\\seeding-data\\seeding-data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|solutionrelative:seeding-data\\seeding-data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/EFDB/True/SqlTable/dbo.Cities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-12 assignment\\seeding-data\\controllers\\statescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|solutionrelative:seeding-data\\controllers\\statescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +22,12 @@
       "RelativeMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|solutionrelative:seeding-data\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-12 assignment\\seeding-data\\data\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|solutionrelative:seeding-data\\data\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-12 assignment\\seeding-data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|solutionrelative:seeding-data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-12 assignment\\seeding-data\\seeding-data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|solutionrelative:seeding-data\\seeding-data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-12 assignment\\seeding-data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -45,6 +44,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-12 assignment\\seeding-data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|solutionrelative:seeding-data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-12 assignment\\seeding-data\\migrations\\20260217042316_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EE8DB4-04A1-48E8-A9D9-22770E1103AE}|Seeding-Data\\Seeding-Data.csproj|solutionrelative:seeding-data\\migrations\\20260217042316_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,112 +57,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StatesController.cs",
-              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\StatesController.cs",
-              "RelativeDocumentMoniker": "Seeding-Data\\Controllers\\StatesController.cs",
-              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\StatesController.cs",
-              "RelativeToolTip": "Seeding-Data\\Controllers\\StatesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:33:28.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "Seeding-Data\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "Seeding-Data\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:32:54.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "Seeding-Data\\Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "Seeding-Data\\Controllers\\CountriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:32:21.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20260217042316_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs",
-              "RelativeToolTip": "Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:23:17.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\appsettings.json",
-              "RelativeDocumentMoniker": "Seeding-Data\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\appsettings.json",
-              "RelativeToolTip": "Seeding-Data\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-17T04:15:38.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Program.cs",
-              "RelativeDocumentMoniker": "Seeding-Data\\Program.cs",
-              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Program.cs",
-              "RelativeToolTip": "Seeding-Data\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:14:29.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EFCoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Data\\EFCoreDbContext.cs",
-              "RelativeDocumentMoniker": "Seeding-Data\\Data\\EFCoreDbContext.cs",
-              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Data\\EFCoreDbContext.cs",
-              "RelativeToolTip": "Seeding-Data\\Data\\EFCoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:00:34.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Seeding-Data",
-              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Seeding-Data.csproj",
-              "RelativeDocumentMoniker": "Seeding-Data\\Seeding-Data.csproj",
-              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Seeding-Data.csproj",
-              "RelativeToolTip": "Seeding-Data\\Seeding-Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-17T04:00:01.496Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -174,6 +73,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Cities.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/EFDB/True/SqlTable/dbo.Cities.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/EFDB/True/SqlTable/dbo.Cities.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-17T04:38:45.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\StatesController.cs",
+              "RelativeDocumentMoniker": "Seeding-Data\\Controllers\\StatesController.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\StatesController.cs",
+              "RelativeToolTip": "Seeding-Data\\Controllers\\StatesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:33:28.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Seeding-Data\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Seeding-Data\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:32:54.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Seeding-Data\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Seeding-Data\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:32:21.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260217042316_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs",
+              "RelativeToolTip": "Seeding-Data\\Migrations\\20260217042316_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:23:17.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\appsettings.json",
+              "RelativeDocumentMoniker": "Seeding-Data\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\appsettings.json",
+              "RelativeToolTip": "Seeding-Data\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T04:15:38.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Program.cs",
+              "RelativeDocumentMoniker": "Seeding-Data\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Program.cs",
+              "RelativeToolTip": "Seeding-Data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:14:29.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Data\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "Seeding-Data\\Data\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Data\\EFCoreDbContext.cs",
+              "RelativeToolTip": "Seeding-Data\\Data\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:00:34.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seeding-Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Seeding-Data.csproj",
+              "RelativeDocumentMoniker": "Seeding-Data\\Seeding-Data.csproj",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Seeding-Data.csproj",
+              "RelativeToolTip": "Seeding-Data\\Seeding-Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T04:00:01.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-12 Assignment\\Seeding-Data\\Models\\City.cs",
@@ -182,8 +187,7 @@
               "RelativeToolTip": "Seeding-Data\\Models\\City.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T03:59:36.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T03:59:36.02Z"
             },
             {
               "$type": "Document",
@@ -195,8 +199,7 @@
               "RelativeToolTip": "Seeding-Data\\Models\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T03:59:07.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T03:59:07.503Z"
             },
             {
               "$type": "Document",
@@ -208,8 +211,7 @@
               "RelativeToolTip": "Seeding-Data\\Models\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T03:58:14.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T03:58:14.052Z"
             },
             {
               "$type": "Bookmark",
