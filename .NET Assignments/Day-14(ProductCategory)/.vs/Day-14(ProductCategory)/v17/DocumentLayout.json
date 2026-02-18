@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Migrations\\20260218145154_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCategory\\Migrations\\20260218145154_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\.net assignments\\day-14(productcategory)\\productcategory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F49BF97-B868-44E9-BFAD-506BD15ADC75}|ProductCategory\\ProductCategory.csproj|solutionrelative:productcategory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProductCategory\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:14:25.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ProductCategory\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA6wDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:12:49.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "ProductCategory\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:12:22.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductCategory\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:50:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductCategory\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:47:01.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Models\\Category.cs",
+              "RelativeToolTip": "ProductCategory\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:44:40.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Program.cs",
+              "RelativeToolTip": "ProductCategory\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:45:53.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260218145154_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Migrations\\20260218145154_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Migrations\\20260218145154_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Migrations\\20260218145154_InitialCreate.cs",
+              "RelativeToolTip": "ProductCategory\\Migrations\\20260218145154_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:51:55.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductCategory\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:46:32.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductCategory\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:45:38.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCategory\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\Models\\Product.cs",
+              "RelativeToolTip": "ProductCategory\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:44:31.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCategory\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\.NET Assignments\\Day-14(ProductCategory)\\ProductCategory\\appsettings.json",
+              "RelativeToolTip": "ProductCategory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T14:43:08.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
