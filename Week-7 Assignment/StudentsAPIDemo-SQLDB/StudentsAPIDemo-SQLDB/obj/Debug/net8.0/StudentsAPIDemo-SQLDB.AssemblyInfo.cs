@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentsAPIDemo-SQLDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79014e2f90ba2ae5b5efb6bff225440beb1b93d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2654d6bd58bf0868601755ca598fbf204fbbce31")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentsAPIDemo-SQLDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentsAPIDemo-SQLDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

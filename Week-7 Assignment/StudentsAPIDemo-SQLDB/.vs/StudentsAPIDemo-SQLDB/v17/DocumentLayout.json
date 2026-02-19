@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentsapidemo-sqldb\\studentsapidemo-sqldb\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|solutionrelative:studentsapidemo-sqldb\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAPIDemo-SQLDB\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentsapidemo-sqldb\\studentsapidemo-sqldb\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|solutionrelative:studentsapidemo-sqldb\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Controllers\\DepartmentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAPIDemo-SQLDB\\Controllers\\DepartmentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Migrations\\20260216150853_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAPIDemo-SQLDB\\Migrations\\20260216150853_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentsapidemo-sqldb\\studentsapidemo-sqldb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|solutionrelative:studentsapidemo-sqldb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAPIDemo-SQLDB\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentsapidemo-sqldb\\studentsapidemo-sqldb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|solutionrelative:studentsapidemo-sqldb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAPIDemo-SQLDB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentsapidemo-sqldb\\studentsapidemo-sqldb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|solutionrelative:studentsapidemo-sqldb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAPIDemo-SQLDB\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentsapidemo-sqldb\\studentsapidemo-sqldb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|solutionrelative:studentsapidemo-sqldb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAPIDemo-SQLDB\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|c:\\users\\bhara\\desktop\\web-assignments-hartford\\week-7 assignment\\studentsapidemo-sqldb\\studentsapidemo-sqldb\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE91A9C-3BA7-43A7-88F8-9807F04A2784}|StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB.csproj|solutionrelative:studentsapidemo-sqldb\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Models\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAPIDemo-SQLDB\\Models\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,31 +57,27 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "StudentsAPIDemo-SQLDB\\Controllers\\DepartmentsController.cs",
               "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "StudentsAPIDemo-SQLDB\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T15:12:19.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentsAPIDemo-SQLDB\\Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\Bhara\\Desktop\\Web-Assignments-Hartford\\Week-7 Assignment\\StudentsAPIDemo-SQLDB\\StudentsAPIDemo-SQLDB\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "StudentsAPIDemo-SQLDB\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T15:11:20.89Z",
               "EditorCaption": ""
@@ -96,8 +92,7 @@
               "RelativeToolTip": "StudentsAPIDemo-SQLDB\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T15:09:05.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T15:09:05.812Z"
             },
             {
               "$type": "Document",
@@ -109,8 +104,7 @@
               "RelativeToolTip": "StudentsAPIDemo-SQLDB\\Migrations\\20260216150853_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T15:08:54.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T15:08:54.287Z"
             },
             {
               "$type": "Document",
@@ -122,8 +116,7 @@
               "RelativeToolTip": "StudentsAPIDemo-SQLDB\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T15:07:58.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T15:07:58.31Z"
             },
             {
               "$type": "Document",
@@ -135,8 +128,7 @@
               "RelativeToolTip": "StudentsAPIDemo-SQLDB\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAzwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T15:07:33.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T15:07:33.9Z"
             },
             {
               "$type": "Document",
@@ -148,8 +140,7 @@
               "RelativeToolTip": "StudentsAPIDemo-SQLDB\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T15:06:29.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T15:06:29.728Z"
             },
             {
               "$type": "Document",
@@ -161,8 +152,11 @@
               "RelativeToolTip": "StudentsAPIDemo-SQLDB\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T15:06:17.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T15:06:17.59Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
