@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarbonFootprintTracker.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+015e34ade94815f8fdcb2983c9cc3390fcfd58e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e546b8dc6a8133d22329e086d6fb0283a2c75ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarbonFootprintTracker.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarbonFootprintTracker.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

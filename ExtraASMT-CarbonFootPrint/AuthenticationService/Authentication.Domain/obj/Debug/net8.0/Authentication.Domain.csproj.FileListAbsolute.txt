@@ -1,0 +1,13 @@
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.deps.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.csproj.AssemblyReference.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.sourcelink.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\refint\Authentication.Domain.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Domain\obj\Debug\net8.0\ref\Authentication.Domain.dll

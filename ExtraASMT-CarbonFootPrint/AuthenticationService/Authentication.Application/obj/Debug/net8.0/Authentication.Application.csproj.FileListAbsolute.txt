@@ -1,0 +1,16 @@
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\bin\Debug\net8.0\Authentication.Application.deps.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\bin\Debug\net8.0\Authentication.Application.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\bin\Debug\net8.0\Authentication.Application.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\bin\Debug\net8.0\Authentication.Domain.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\bin\Debug\net8.0\Authentication.Domain.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authentication.Application.csproj.AssemblyReference.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authentication.Application.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authentication.Application.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authentication.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authentication.Application.sourcelink.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authenti.BD76F788.Up2Date
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authentication.Application.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\refint\Authentication.Application.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\Authentication.Application.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\AuthenticationService\Authentication.Application\obj\Debug\net8.0\ref\Authentication.Application.dll

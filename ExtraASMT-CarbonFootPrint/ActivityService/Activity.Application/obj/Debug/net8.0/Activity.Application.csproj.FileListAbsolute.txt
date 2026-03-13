@@ -1,0 +1,16 @@
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\bin\Debug\net8.0\Activity.Application.deps.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\bin\Debug\net8.0\Activity.Application.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\bin\Debug\net8.0\Activity.Application.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\bin\Debug\net8.0\Activity.Domain.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\bin\Debug\net8.0\Activity.Domain.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.Application.csproj.AssemblyReference.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.Application.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.Application.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.Application.sourcelink.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.B897BF33.Up2Date
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.Application.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\refint\Activity.Application.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\Activity.Application.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Application\obj\Debug\net8.0\ref\Activity.Application.dll

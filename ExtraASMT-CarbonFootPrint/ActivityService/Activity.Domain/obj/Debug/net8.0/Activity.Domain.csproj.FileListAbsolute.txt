@@ -1,0 +1,13 @@
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\bin\Debug\net8.0\Activity.Domain.deps.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\bin\Debug\net8.0\Activity.Domain.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\bin\Debug\net8.0\Activity.Domain.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\Activity.Domain.csproj.AssemblyReference.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\Activity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\Activity.Domain.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\Activity.Domain.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\Activity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\Activity.Domain.sourcelink.json
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\Activity.Domain.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\refint\Activity.Domain.dll
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\Activity.Domain.pdb
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\ActivityService\Activity.Domain\obj\Debug\net8.0\ref\Activity.Domain.dll

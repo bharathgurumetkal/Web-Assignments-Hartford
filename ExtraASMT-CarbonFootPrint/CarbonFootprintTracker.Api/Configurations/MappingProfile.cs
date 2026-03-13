@@ -11,9 +11,9 @@ namespace CarbonFootprintTracker.Api.Configurations
             CreateMap<User, UserDto>();
             CreateMap<UserRegisterDto, User>();
             
-            CreateMap<Activity, ActivityDto>();
-            CreateMap<ActivityCreateDto, Activity>();
-            CreateMap<ActivityUpdateDto, Activity>();
+            CreateMap<Activity, ActivityResponseDto>();
+            CreateMap<CreateActivityDto, Activity>();
+            CreateMap<UpdateActivityDto, Activity>();
         }
     }
 }
