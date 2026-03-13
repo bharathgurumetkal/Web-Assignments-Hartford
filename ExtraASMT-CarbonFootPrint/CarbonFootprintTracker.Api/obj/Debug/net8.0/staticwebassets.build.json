@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/N0Z+4R56zPe1UEFtlyak4KGdsFgvCt9euVHiIdkSbY=",
+  "Source": "CarbonFootprintTracker.Api",
+  "BasePath": "_content/CarbonFootprintTracker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

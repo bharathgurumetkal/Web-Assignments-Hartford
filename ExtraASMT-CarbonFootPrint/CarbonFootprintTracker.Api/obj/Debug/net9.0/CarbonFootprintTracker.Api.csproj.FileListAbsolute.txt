@@ -1,0 +1,8 @@
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\CarbonFootprintTracker.Api\obj\Debug\net9.0\CarbonFootprintTracker.Api.csproj.AssemblyReference.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\CarbonFootprintTracker.Api\obj\Debug\net9.0\CarbonFootprintTracker.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\CarbonFootprintTracker.Api\obj\Debug\net9.0\CarbonFootprintTracker.Api.AssemblyInfoInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\CarbonFootprintTracker.Api\obj\Debug\net9.0\CarbonFootprintTracker.Api.AssemblyInfo.cs
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\CarbonFootprintTracker.Api\obj\Debug\net9.0\CarbonFootprintTracker.Api.csproj.CoreCompileInputs.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\CarbonFootprintTracker.Api\obj\Debug\net9.0\CarbonFootprintTracker.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\CarbonFootprintTracker.Api\obj\Debug\net9.0\CarbonFootprintTracker.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhara\Desktop\Web-Assignments-Hartford\ExtraASMT-CarbonFootPrint\CarbonFootprintTracker.Api\obj\Debug\net9.0\CarbonFootprintTracker.Api.sourcelink.json
