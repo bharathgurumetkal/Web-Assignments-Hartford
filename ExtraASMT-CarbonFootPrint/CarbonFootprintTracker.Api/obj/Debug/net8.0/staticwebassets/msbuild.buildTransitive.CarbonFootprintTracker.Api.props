@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CarbonFootprintTracker.Api.props" />
-</Project>
